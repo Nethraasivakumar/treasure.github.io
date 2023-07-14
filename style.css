@@ -33,7 +33,7 @@ body {
     left:13%;
     right:13%;
     height:100%;
-    animation: play 8s infinite;
+    animation: play 7s infinite;
 }
 
 .headings {
@@ -57,7 +57,7 @@ p {
 
 
 .city {
-    color: #D3D3D3;
+    color: #606060;
     
 }
 
